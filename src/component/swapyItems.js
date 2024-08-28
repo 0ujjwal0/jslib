@@ -1,7 +1,7 @@
 import React from "react";
 const SwapyItems = () => {
   return (
-    <div className="parent">
+    <div className="flex gap-8">
       <div
         className="w-auto h-auto"
         data-swapy-slot="doo"
